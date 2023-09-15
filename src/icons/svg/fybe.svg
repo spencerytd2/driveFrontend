@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="84.955" viewBox="0 0 80 84.955">
+    <defs>
+        <linearGradient id="fybe-logo-5" x1="-0.063" y1="0.5" x2="0.5" y2="0.573" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#855ef9"></stop>
+            <stop offset="0.389" stop-color="#ab88d7"></stop>
+            <stop offset="1" stop-color="#e67537"></stop>
+        </linearGradient>
+        <clipPath id="fybe-logo-horizons-gradient">
+            <path d="M60.973,54.533l-.055,1.074-.056-1.074L51.069,18.559h-8.9L57.076,68.068S53.534,78.29,52.521,79.281H3.207L0,87.4l48.842-.113q6.119,0,9.125-2.739t4.9-8.967L80,18.559H70.765ZM6.668,2.449V69.032h9.57V35.742H36.157l1.224-7.2H16.238V9.755H39.385V2.449Z" transform="translate(0 -2.449)" fill="url(#fybe-logo-5)"></path>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#fybe-logo-horizons-gradient)">
+        <rect width="163.012" height="85.921" transform="translate(0 -0.966)" fill="url(#fybe-logo-5)"></rect>
+    </g>
+</svg>
