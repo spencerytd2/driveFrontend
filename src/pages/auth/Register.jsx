@@ -8,7 +8,7 @@ const Register = () => {
 	}
 
 	return (
-		<GoogleReCaptchaProvider reCaptchaKey="6LcO8mIlAAAAANAY0uu2kfqcy4XEVCmNoB3nE__v">
+	
 			<div
 				className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8"
 				style={{
@@ -57,10 +57,10 @@ const Register = () => {
 					}}></div>
 				<div className="w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 my-[100px] mb-[180px]">
 					<RegisterForm />
-					<GoogleReCaptcha onVerify={handleVerify} />
+				
 				</div>
 			</div>
-		</GoogleReCaptchaProvider>
+	
 	)
 }
 
